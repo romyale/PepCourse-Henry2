@@ -1,2 +1,1 @@
-# PepCourse-Henry2
-Descripcion de repositorio del curso
+Este proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
